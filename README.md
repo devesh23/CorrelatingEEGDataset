@@ -1,0 +1,2 @@
+# CorrelatingEEGDataset
+Data Mining Project
